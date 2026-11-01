@@ -1,0 +1,7 @@
+interface:
+  display_name: "WIW"
+  short_description: "Recover and keep what the user wants"
+  default_prompt: "Use $wiw to find what I'm actually trying to do and keep it in intent.md."
+
+policy:
+  allow_implicit_invocation: false

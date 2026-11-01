@@ -1,0 +1,7 @@
+interface:
+  display_name: "II"
+  short_description: "논의되지 않은 것을 다 해소될 때까지 예상 답과 함께 묻기"
+  default_prompt: "$ii로 아직 논의하지 않은 것을 예상 답과 함께 물어봐 줘."
+
+policy:
+  allow_implicit_invocation: false
